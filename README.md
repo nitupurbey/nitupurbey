@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitu Purbey!
 
-<!--
-**nitupurbey/nitupurbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m a student and aspiring developer from Nepal 
+ Currently learning programming, data science, and problem-solving  
+ I enjoy building small projects and improving my skills every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ Who am I?
+I’m a curious learner who loves exploring technology and understanding how things work.  
+Right now, I’m focused on strengthening my fundamentals in coding and using data to solve real-world problems.
+
+---
+
+##  What am I currently working on?
+-  Learning Python deeply (basics → advanced)
+-  Practicing Data Science with real datasets
+-  Solving DSA problems in Python & C++
+-  Creating mini projects for practice
+
+---
+
+## 🛠 Tools & Technologies
+- Languages: Python, C++
+- Data: Pandas, NumPy
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+- Basics: SQL, Excel
+
+---
+
+
+---
+
+##  How to reach me
+-  Email: nitupurbey2@gmail.com   
+-  GitHub: https://github.com/nitupurbey  
+
+---
+
+✨ Learning one step at a time. Building every day.
+
